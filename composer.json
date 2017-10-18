@@ -1,0 +1,12 @@
+{
+    "name": "jungleran/tencent_wechat_validation",
+    "authors": [
+        {
+            "name": "jungle",
+            "email": "jungle@ranqiangjun.com"
+        }
+    ],
+    "require": {
+        "overtrue/wechat": "~3.1"
+    }
+}
